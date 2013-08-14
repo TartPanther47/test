@@ -6,5 +6,7 @@ public class Main {
 		
 		System.out.println("I am a gitrepo test! :) ");
 		
+		System.out.println("lol");
+		
 	}
 }
